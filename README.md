@@ -7,5 +7,5 @@ During my academic career I used ab initio and classical simulation techniques t
     Work: Geollect Ltd
     Contact: symmy586@gmail.com
     Website: https://python-maps.github.io/
-    Twitter: https://twitter.com/PythonMaps and https://twitter.com/PythonMaps
+    Twitter: https://twitter.com/PythonMaps
     linkedin: https://www.linkedin.com/in/adam-symington/
